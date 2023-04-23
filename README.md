@@ -56,6 +56,7 @@ Installation via cloned repository:
 $ git clone https://github.com/leescu/NHGPM.git
 $ cd NHGPM
 ```
+Make sure that the unpacked folders are inside “python/” folder in NHGPM. Now you should be able to run the ipyn notebook or play with the python scripts!
 
 ## Details
 
@@ -71,7 +72,7 @@ including models based on 4175, 144 and post-REF descriptors
 
 ##### 2.1.1 Decision tree
 
-[(./python/DT.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/DT.ipynb)
+[./python/DT.ipynb](https://github.com/leescu/NHGPM/blob/main/python/DT.ipynb)
 
 ##### 2.1.2 Random forest
 
