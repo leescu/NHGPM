@@ -76,37 +76,37 @@ including models based on 4175, 144 and post-REF descriptors
 
 ##### 2.1.2 Random forest
 
-[(./python/RF.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/RF.ipynb)
+[./python/RF.ipynb](https://github.com/leescu/NHGPM/blob/main/python/RF.ipynb)
 
 ##### 2.1.3 Logistic regression
 
-[(./python/LR.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/LR.ipynb)
+[./python/LR.ipynb](https://github.com/leescu/NHGPM/blob/main/python/LR.ipynb)
 
 ##### 2.1.4 Rextreme gradient boosting
 
-[(./python/Xgboost.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/XGBoost.ipynb)
+[./python/Xgboost.ipynb](https://github.com/leescu/NHGPM/blob/main/python/XGBoost.ipynb)
 
 #### 2.2 Models of fingerprinting:
 including models based on DT, RF and Xgboost of fingerprinting
 
-[(./python/Fingerprint.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/Fingerprint.ipynb)
+[./python/Fingerprint.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Fingerprint.ipynb)
 
 ### 3. Molecular prediction of pubchem
 
-[(./python/Pubchem data arrangement.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/Pubchem%20data%20arrangement.ipynb)
+[./python/Pubchem data arrangement.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Pubchem%20data%20arrangement.ipynb)
 
 ### 4. Code for figures
 #### 4.1 Figure 1 
 
-[(./python/Figure 1.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/Figure%201.ipynb)
+[./python/Figure 1.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%201.ipynb)
 
 #### 4.2 Figure 2
 
-[(./python/Figure 2.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/Figure%202.ipynb)
+[./python/Figure 2.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%202.ipynb)
 
 #### 4.3 Figure 3
 
-[(./python/Figure 3.ipynb)](https://github.com/leescu/NHGPM/blob/main/python/Figure%203.ipynb)
+[./python/Figure 3.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%203.ipynb)
 
 
 ## Contributing
