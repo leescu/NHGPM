@@ -44,12 +44,17 @@ plotnine ≥ 0.10.1
 optuna ≥ 3.0.5
 xgboost ≥ 1.7.2
 ```
+#### Notes
+
+
 
 ## Installation Guide
 
-This module depends upon a knowledge of [Markdown]().
+Installation via cloned repository:
 
 ```
+$ git clone https://github.com/leescu/NHGPM.git
+$ cd NHGPM
 ```
 
 ## Details
