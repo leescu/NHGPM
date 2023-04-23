@@ -45,7 +45,7 @@ optuna ≥ 3.0.5
 xgboost ≥ 1.7.2
 ```
 #### Notes
-
+The calculation of molecular descriptors relies on the payware alvaDesc(https://www.alvascience.com/alvadesc/), and we provide the results of the descriptors in the corresponding file.
 
 
 ## Installation Guide
