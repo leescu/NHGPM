@@ -60,51 +60,56 @@ Make sure that the unpacked folders are inside “python/” folder in NHGPM. No
 
 ## Details
 
-### 1.Calculation and selection of molecular descriptors for 71 nucleoside hydrogels
+### 1.Calculation and three-step feature selection of molecular descriptors for 71 nucleoside hydrogels
 
 [./python/Raw data arrangement.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Raw%20data%20arrangement.ipynb)
+### 2.MLREM and LASSO feature selection
+#### 2.1 MLREM
+[./MLREM.R]([(https://github.com/leescu/NHGPM/blob/main/MLREM.R)])
+#### 2.2 LASSO and evaluation of MLREM and LASSO feature selection 
+[./python/MLREM & LASSO.ipynb](https://github.com/leescu/NHGPM/blob/main/python/LASSO%26MLREM.ipynb)
  
-### 2.Construction of machine learning models
+### 3.Construction of machine learning models
 
-#### 2.1 Models of descriptors:
+#### 3.1 Models of descriptors:
 
 including models based on 4175, 144 and post-REF descriptors
 
-##### 2.1.1 Decision tree
+##### 3.1.1 Decision tree
 
 [./python/DT.ipynb](https://github.com/leescu/NHGPM/blob/main/python/DT.ipynb)
 
-##### 2.1.2 Random forest
+##### 3.1.2 Random forest
 
 [./python/RF.ipynb](https://github.com/leescu/NHGPM/blob/main/python/RF.ipynb)
 
-##### 2.1.3 Logistic regression
+##### 3.1.3 Logistic regression
 
 [./python/LR.ipynb](https://github.com/leescu/NHGPM/blob/main/python/LR.ipynb)
 
-##### 2.1.4 Rextreme gradient boosting
+##### 3.1.4 Rextreme gradient boosting
 
 [./python/Xgboost.ipynb](https://github.com/leescu/NHGPM/blob/main/python/XGBoost.ipynb)
 
-#### 2.2 Models of fingerprinting:
+#### 3.2 Models of fingerprinting:
 including models based on DT, RF and Xgboost of fingerprinting
 
 [./python/Fingerprint.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Fingerprint.ipynb)
 
-### 3. Molecular prediction of pubchem
+### 4. Molecular prediction of pubchem
 
 [./python/Pubchem data arrangement.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Pubchem%20data%20arrangement.ipynb)
 
-### 4. Code for figures
-#### 4.1 Figure 1 
+### 5. Code for figures
+#### 5.1 Figure 1 
 
 [./python/Figure 1.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%201.ipynb)
 
-#### 4.2 Figure 2
+#### 5.2 Figure 2
 
 [./python/Figure 2.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%202.ipynb)
 
-#### 4.3 Figure 3
+#### 5.3 Figure 3
 
 [./python/Figure 3.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%203.ipynb)
 
