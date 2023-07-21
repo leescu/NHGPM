@@ -12,7 +12,7 @@ This code is the details of the manuscript "eveloping a machine learning model f
 - [Deatails](#details)
 - [Contributing](#contributing)
 - [License](#license)
-
+ 
 ## Overview
 
 Supramolecular hydrogels derived from nucleosides have been gaining significant attention in the biomedical field due to their unique properties and excellent biocompatibility. However, a major challenge in this field is that there is no model for predicting whether nucleoside derivatives will form a hydrogel. Here, we successfully developed a machine learning (ML) model to predict the hydrogel-forming ability of nucleoside derivatives. An optimal ML model with a 71% (95% Confidence Interval, 0.69-0.73) accuracy in predicting hydrogel formation capacity was established based on a dataset of 71 reported nucleoside derivatives was constructed. Three potential gelators were selected based on the optimal model external application and the gel-forming ability were experimentally verified. Among these, two cation-independent nucleoside hydrogels were found surprisingly for the first time. After investigated their self-assembly mechanisms, the cation-independent hydrogel was found to have potential applications in rapid visual detection of Ag+ and cysteine. This optimal ML model may provide a tool to predict nucleoside derivatives with hydrogel-forming ability in the future.
