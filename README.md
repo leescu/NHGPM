@@ -65,7 +65,7 @@ Make sure that the unpacked folders are inside “python/” folder in NHGPM. No
 [./python/Raw data arrangement.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Raw%20data%20arrangement.ipynb)
 ### 2.MLREM and LASSO feature selection
 #### 2.1 MLREM
-[./MLREM.R]([(https://github.com/leescu/NHGPM/blob/main/MLREM.R)])
+[./MLREM.R](https://github.com/leescu/NHGPM/blob/main/MLREM.R)])
 #### 2.2 LASSO and evaluation of MLREM and LASSO feature selection 
 [./python/MLREM & LASSO.ipynb](https://github.com/leescu/NHGPM/blob/main/python/LASSO%26MLREM.ipynb)
  
