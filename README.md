@@ -68,19 +68,19 @@ Make sure that the unpacked folders are inside “python/” folder in NHGPM. No
 
 including models based on 4175, 144 and post-REF descriptors
 
-##### 2.1 Decision tree
+#### 2.1 Decision tree
 
 [./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Model%20construction.ipynb)
 
-##### 2.2 Random forest
+#### 2.2 Random forest
 
 [./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Model%20construction.ipynb)
 
-##### 2.3 Logistic regression
+#### 2.3 Logistic regression
 
 [./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Model%20construction.ipynb)
 
-##### 2.4 Rextreme gradient boosting
+#### 2.4 Rextreme gradient boosting
 
 [./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Mode%20construction.ipynb)
 
@@ -92,7 +92,7 @@ including models based on 4175, 144 and post-REF descriptors
 #### 3.2 LASSO and evaluation of MLREM and LASSO feature selection 
 [./Codes/Step 3. Comparison of feature selection.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%203.%20Comparison%20of%20feature%20selection.ipynb)
 
-#### 4 Sensitivity analysis
+### 4 Sensitivity analysis
 
 [./Codes/Step 4. Sensitivity analysis.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%204.%20Sensitivity%20analysis.ipynb)
 
