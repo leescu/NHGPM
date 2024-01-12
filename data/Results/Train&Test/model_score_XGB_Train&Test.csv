@@ -1,0 +1,6 @@
+,XGB
+Accuracy_test,0.6
+F1 Score,0.5714285714285715
+Precision,0.5
+Recall,0.6666666666666666
+Roc_auc,0.6111111111111112
