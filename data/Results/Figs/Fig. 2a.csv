@@ -1,0 +1,17 @@
+,Accuracy_mean,Accuracy_se,Roc_mean,Roc_se,Model,Method
+0,0.6568,0.0162,0.6615,0.0199,Model 1,Logistic regression
+1,0.683,0.0152,0.803,0.0158,Model 2,Logistic regression
+2,0.7027,0.0117,0.8066,0.0168,Model 3,Logistic regression
+3,0.7098,0.0124,0.8407,0.016,Model 4,Logistic regression
+0,0.6251,0.0143,0.7227,0.0179,Model 1,Random forest
+1,0.6687,0.014,0.7513,0.0161,Model 2,Random forest
+2,0.6717,0.0133,0.7373,0.0163,Model 3,Random forest
+3,0.6745,0.0131,0.7454,0.0153,Model 4,Random forest
+0,0.6535,0.0149,0.6541,0.0156,Model 1,Decision tree
+1,0.6371,0.0145,0.6368,0.0142,Model 2,Decision tree
+2,0.6584,0.0158,0.688,0.0189,Model 3,Decision tree
+3,0.5916,0.0156,0.6327,0.0167,Model 4,Decision tree
+0,0.6345,0.0148,0.6915,0.0204,Model 1,Extreme gradient boosting
+1,0.6387,0.0154,0.7213,0.0163,Model 2,Extreme gradient boosting
+2,0.6387,0.0154,0.7213,0.0163,Model 3,Extreme gradient boosting
+3,0.72,0.0139,0.8098,0.0138,Model 4,Extreme gradient boosting
