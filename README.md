@@ -32,9 +32,9 @@ Supported for *windows* and *Linux*. The package has been tested on the followin
 Mainly depends on the Python 3.9.12 and  JupterLab Notebook 3.5.0-1 . The versions of packages are, specifically:
 
 ```
-rdkit ≥ 2022.03.2
+rdkit ≥ 2022.3.2
 numpy ≥ 1.22.3
-scipy ≥ 1.81
+scipy ≥ 1.8.1
 pandas ≥ 1.4.2
 sklearn ≥ 1.1.1
 joblib ≥ 1.1.0
