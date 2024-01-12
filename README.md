@@ -62,11 +62,9 @@ Make sure that the unpacked folders are inside “python/” folder in NHGPM. No
 
 ### 1.Calculation and three-step feature selection of molecular descriptors for 71 nucleoside hydrogels
 
-[./Codes/Step 1. Feature selection.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step 1. Feature selection.ipynb)
+[./Codes/Step 1. Feature selection.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%201.%20Feature%20selection.ipynb)
  
-### 3.Construction of machine learning models
-
-#### 2. Models of descriptors:
+### 2.Construction of machine learning models
 
 including models based on 4175, 144 and post-REF descriptors
 
