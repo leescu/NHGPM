@@ -62,56 +62,49 @@ Make sure that the unpacked folders are inside “python/” folder in NHGPM. No
 
 ### 1.Calculation and three-step feature selection of molecular descriptors for 71 nucleoside hydrogels
 
-[./python/Raw data arrangement.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Raw%20data%20arrangement.ipynb)
-### 2.MLREM and LASSO feature selection
-#### 2.1 MLREM
-[./MLREM.R](https://github.com/leescu/NHGPM/blob/main/MLREM.R)
-#### 2.2 LASSO and evaluation of MLREM and LASSO feature selection 
-[./python/MLREM & LASSO.ipynb](https://github.com/leescu/NHGPM/blob/main/python/LASSO%26MLREM.ipynb)
+[./Codes/Step 1. Feature selection.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step 1. Feature selection.ipynb)
  
 ### 3.Construction of machine learning models
 
-#### 3.1 Models of descriptors:
+#### 2. Models of descriptors:
 
 including models based on 4175, 144 and post-REF descriptors
 
-##### 3.1.1 Decision tree
+##### 2.1 Decision tree
 
-[./python/DT.ipynb](https://github.com/leescu/NHGPM/blob/main/python/DT.ipynb)
+[./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Model%20construction.ipynb)
 
-##### 3.1.2 Random forest
+##### 2.2 Random forest
 
-[./python/RF.ipynb](https://github.com/leescu/NHGPM/blob/main/python/RF.ipynb)
+[./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Model%20construction.ipynb)
 
-##### 3.1.3 Logistic regression
+##### 2.3 Logistic regression
 
-[./python/LR.ipynb](https://github.com/leescu/NHGPM/blob/main/python/LR.ipynb)
+[./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Model%20construction.ipynb)
 
-##### 3.1.4 Rextreme gradient boosting
+##### 2.4 Rextreme gradient boosting
 
-[./python/Xgboost.ipynb](https://github.com/leescu/NHGPM/blob/main/python/XGBoost.ipynb)
+[./Codes/Step 2. Model construction.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%202.%20Mode%20construction.ipynb)
 
-#### 3.2 Models of fingerprinting:
-including models based on DT, RF and Xgboost of fingerprinting
+### 3.MLREM and LASSO feature selection
 
-[./python/Fingerprint.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Fingerprint.ipynb)
+#### 3.1 MLREM
+[./data/others/MLREM.R](https://github.com/leescu/NHGPM/blob/main/data/others/MLREM.R)
 
-### 4. Molecular prediction of pubchem
+#### 3.2 LASSO and evaluation of MLREM and LASSO feature selection 
+[./Codes/Step 3. Comparison of feature selection.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%203.%20Comparison%20of%20feature%20selection.ipynb)
 
-[./python/Pubchem data arrangement.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Pubchem%20data%20arrangement.ipynb)
+#### 4 Sensitivity analysis
 
-### 5. Code for figures
-#### 5.1 Figure 1 
+[./Codes/Step 4. Sensitivity analysis.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%204.%20Sensitivity%20analysis.ipynb)
 
-[./python/Figure 1.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%201.ipynb)
+### 5. Molecular prediction of pubchem
 
-#### 5.2 Figure 2
+[./Codes/Step 5. Optimal model external validation.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%205.%20Optimal%20model%20external%20validation.ipynb)
 
-[./python/Figure 2.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%202.ipynb)
+### 6. Code for figures
 
-#### 5.3 Figure 3
-
-[./python/Figure 3.ipynb](https://github.com/leescu/NHGPM/blob/main/python/Figure%203.ipynb)
+[./Codes/Step 6. Figures.ipynb](https://github.com/leescu/NHGPM/blob/main/Codes/Step%206.%20Figures.ipynb)
 
 
 ## Contributing
